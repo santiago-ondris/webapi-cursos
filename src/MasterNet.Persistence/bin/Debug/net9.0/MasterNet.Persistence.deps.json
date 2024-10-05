@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MasterNet.Persistence/1.0.0": {
+        "dependencies": {
+          "MasterNet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MasterNet.Persistence.dll": {}
+        }
+      },
+      "MasterNet.Domain/1.0.0": {
+        "runtime": {
+          "MasterNet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasterNet.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MasterNet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
