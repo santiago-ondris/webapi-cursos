@@ -1,6 +1,6 @@
 namespace MasterNet.Domain;
 
-public class Clasificacion : BaseEntity
+public class Calificacion : BaseEntity
 {
     public string? Alumno {get; set;}
     public int Puntaje {get; set;}
