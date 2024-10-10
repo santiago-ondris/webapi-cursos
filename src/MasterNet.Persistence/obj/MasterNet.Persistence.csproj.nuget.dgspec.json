@@ -113,6 +113,10 @@
               "target": "Package",
               "version": "[35.4.0, )"
             },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0-preview.2.24128.4, )"
