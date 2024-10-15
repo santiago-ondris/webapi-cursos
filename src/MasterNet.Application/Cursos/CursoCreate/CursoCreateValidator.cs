@@ -1,0 +1,1 @@
+// Clase que valida el contenido del request

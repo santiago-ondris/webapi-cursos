@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNet.Domain", "src\Mas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNet.Persistence", "src\MasterNet.Persistence\MasterNet.Persistence.csproj", "{78DC8BCC-A1F0-49A0-967A-63B79A6FE4D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNet.Application", "src\MasterNet.Application\MasterNet.Application.csproj", "{69F59BCC-695B-4B57-90E3-9B9C27C1867E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,10 +34,15 @@ Global
 		{78DC8BCC-A1F0-49A0-967A-63B79A6FE4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DC8BCC-A1F0-49A0-967A-63B79A6FE4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DC8BCC-A1F0-49A0-967A-63B79A6FE4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F59BCC-695B-4B57-90E3-9B9C27C1867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F59BCC-695B-4B57-90E3-9B9C27C1867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F59BCC-695B-4B57-90E3-9B9C27C1867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F59BCC-695B-4B57-90E3-9B9C27C1867E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AEC868B5-1F3F-40C4-A439-B99ED99875AB} = {D081D64A-268F-4968-BEE0-AE9A8FA6C36E}
 		{FC65B66E-51A0-4380-BAF9-E5CD0C266F7D} = {D081D64A-268F-4968-BEE0-AE9A8FA6C36E}
 		{78DC8BCC-A1F0-49A0-967A-63B79A6FE4D9} = {D081D64A-268F-4968-BEE0-AE9A8FA6C36E}
+		{69F59BCC-695B-4B57-90E3-9B9C27C1867E} = {D081D64A-268F-4968-BEE0-AE9A8FA6C36E}
 	EndGlobalSection
 EndGlobal
